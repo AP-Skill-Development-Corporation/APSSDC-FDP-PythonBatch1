@@ -1,7 +1,6 @@
 # APSSDC-FDP-PythonBatch1
 
 # Day-01[16-08-2021]:
-
 - Python Introduction
 - Anaconda Installation
 - Markdown Format
