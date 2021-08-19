@@ -21,4 +21,4 @@
 
 ## Day-04[19-08-2021]
 - Iterators with examples
-- Recording Video link - 
+- Recording Video link - https://transcripts.gotomeeting.com/#/s/7bf24e1ddc0c8a7d600db7c1d74621ca803f08c7dd1373deeea3417ed09dfa7c
