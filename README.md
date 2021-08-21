@@ -22,3 +22,9 @@
 ## Day-04[19-08-2021]
 - Iterators with examples
 - Recording Video link - https://transcripts.gotomeeting.com/#/s/7bf24e1ddc0c8a7d600db7c1d74621ca803f08c7dd1373deeea3417ed09dfa7c
+
+## Day-05[21-08-2021]
+- Nested loops
+- Jump Statements
+- Strings Introduction
+- Recording Video link - https://transcripts.gotomeeting.com/#/s/cf6b5aaa9a739c98bb26bb73afa99b7f21a6ffd299b840e866d7ea9c1ebeee8e
