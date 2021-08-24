@@ -28,3 +28,12 @@
 - Jump Statements
 - Strings Introduction
 - Recording Video link - https://transcripts.gotomeeting.com/#/s/cf6b5aaa9a739c98bb26bb73afa99b7f21a6ffd299b840e866d7ea9c1ebeee8e
+
+## Day-06[23-08-2021]
+- String Slicing and string methods
+- Recording Video link - https://transcripts.gotomeeting.com/#/s/99cd03dbb4d54bcbd15419807bbd5f9e876af0a042e6b05a389681f274b67f7f
+
+## Day-07[24-08-2021]
+- String Examples
+- Data Structures Started[List Concept]
+- Recording video link -
