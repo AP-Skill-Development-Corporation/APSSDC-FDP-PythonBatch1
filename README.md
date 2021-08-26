@@ -36,4 +36,14 @@
 ## Day-07[24-08-2021]
 - String Examples
 - Data Structures Started[List Concept]
-- Recording video link -
+- Recording video link -https://transcripts.gotomeeting.com/#/s/bc62a33a8d73d4cdaf2ca5391dac5880dd9ed0b5556ee5fb001ffa4c98f35819
+
+## Day-08[25-08-2021]
+- List methods
+- Tuple Concept
+- Sets Introduction
+- Recording video link - https://transcripts.gotomeeting.com/#/s/e2f7c4223abf8786d6f1452f07239c7fbba133d9d2fa2f31c527747dcc139f0f
+
+## Day-09[26-08-2021]
+- Set Operations
+- Recording video link - https://transcripts.gotomeeting.com/#/s/2d43e047acf264fd6c20320b809c213def8a4ee3e860dac1ca189b99ea4ac832
