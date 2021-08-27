@@ -47,3 +47,8 @@
 ## Day-09[26-08-2021]
 - Set Operations
 - Recording video link - https://transcripts.gotomeeting.com/#/s/2d43e047acf264fd6c20320b809c213def8a4ee3e860dac1ca189b99ea4ac832
+
+## Day-10[27-08-2021]
+- Dictionaries concept
+- File Handling
+- Recording video link
