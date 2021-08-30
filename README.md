@@ -53,7 +53,12 @@
 - File Handling
 - Recording video link - https://transcripts.gotomeeting.com/#/s/4c4cf0b58687955be5c0e4bba4097ecaabf5430215bf97093be7c0d5e8c459f1
 
-## Day-09[28-08-2021]
+## Day-11[28-08-2021]
 - File Handling methods
 - Functions
 - Recording video link - https://transcripts.gotomeeting.com/#/s/af35e9af9fc0426f01df8095ee65cd4c0c3774e50df6ab6f9e4146331862855c
+
+## Day-12[30-08-2021]
+- Packages and modules
+- Regular Expressions
+- Recording video link - 
