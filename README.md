@@ -61,4 +61,10 @@
 ## Day-12[30-08-2021]
 - Packages and modules
 - Regular Expressions
-- Recording video link - 
+- Recording video link - https://transcripts.gotomeeting.com/#/s/e649c95f4d64cc734ddea78857168a95dc0406fd534ce7ac514a5297a4d68d84
+
+## Day-13[31-08-2021]
+- Comprehensions
+- Iterators and generators
+- Functional programming
+- Recording video link - https://transcripts.gotomeeting.com/#/s/f1d572f4c204ab9fcf6754c5e19f340d54272b636b8e5f9f21c28d6f6559fcc5
