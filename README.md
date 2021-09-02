@@ -68,3 +68,12 @@
 - Iterators and generators
 - Functional programming
 - Recording video link - https://transcripts.gotomeeting.com/#/s/f1d572f4c204ab9fcf6754c5e19f340d54272b636b8e5f9f21c28d6f6559fcc5
+
+## Day-14[01-09-2021]
+- Data Science Concepts
+- Numpy 
+- Recording video link - https://transcripts.gotomeeting.com/#/s/3985215fcd8c2f442f1fef8778beab781ea43ac09613504c4845c825f44c109b
+
+## Day-15[02-09-2021]
+-Pandas
+- Recording video link - 
