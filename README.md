@@ -75,5 +75,9 @@
 - Recording video link - https://transcripts.gotomeeting.com/#/s/3985215fcd8c2f442f1fef8778beab781ea43ac09613504c4845c825f44c109b
 
 ## Day-15[02-09-2021]
--Pandas
+- Pandas
+- Recording video link - https://transcripts.gotomeeting.com/#/s/338f80e194706fabe6b3a1229d84e78689834ea6c7bd852829bd007a7ff19e54
+
+## Day-16[03-09-2021]
+- Matplotlib
 - Recording video link - 
