@@ -80,4 +80,4 @@
 
 ## Day-16[03-09-2021]
 - Matplotlib
-- Recording video link - 
+- Recording video link - https://transcripts.gotomeeting.com/#/s/e24dba69c4b1dd2f7432eb29bcaea3e6def81848bc94d8997401344e79a0ae7b
